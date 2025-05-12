@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Roboto";
+    src:local("Roboto-Regular"),
+      local("Roboto-Regular"),
+      url("Roboto-Regular.woff2") format("woff2"),
+      url("Roboto-Regular.woff") format("woff"),
+      url("Roboto-Regular") format("ttf");
+      font-weight: normal;
+
+  }
+
+  body{
+    font-family:"Roboto", sans-serif;
+    font-size: 10 px;
+    line-height: normal;
+  }
+
+  .fat{
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;}
+
+ .title  {
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+    font-style: normal;
+   }
+footer{
+    color: white;
+    background-color: black;
+    margin: 10px;
+    padding: 5px;
+} 
